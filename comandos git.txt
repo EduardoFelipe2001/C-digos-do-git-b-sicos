@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------------------------------------------
+git log  /// é para ver as mudanças e podendo com o id, voltar atrás
+---------------------------------------------------------------------------------------------------------------
+git checkout /// com a id de algum log para voltar, git master para ir para a ultima ''versão'' do meu projeto
+---------------------------------------------------------------------------------------------------------------
+git initi /// é para sincronizar com o code
+---------------------------------------------------------------------------------------------------------------
+git add . /// Quando usamos add , estamos dizendo que o arquivo estará adicionando ao próximo commit, quando este for realizado.
+---------------------------------------------------------------------------------------------------------------
+git commit -m "(oq mudei)"
+---------------------------------------------------------------------------------------------------------------
+git remote add origin (link do https do seu github) /// para poder juntar com seu github para em seguida upar as mudanças 
+---------------------------------------------------------------------------------------------------------------
+git push --set-upstream origin master /// esse código serve para upar de inicio o seu trabalho caso não funcione o git push
+---------------------------------------------------------------------------------------------------------------
+git push /// logo após ter colocado o código acima pode upar com git push
+---------------------------------------------------------------------------------------------------------------
+
+Para entrar com a pasta no git, basta entrar na pasta que deseja
+clicar no lado branco que tenha nada
+botão direito e em seguida selecionar a opção que tenha
+Git bash here
